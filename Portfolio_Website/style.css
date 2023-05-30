@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+
+}
+.navigate{
+    background-color: black;
+     overflow:hidden;
+    text-align: center;
+    height:65px;
+      
+}
+
+.navigate a{
+    color: aliceblue;
+    text-decoration: none;
+    padding : 20px 50px 26px 20px;
+     float: right;
+     font-size: 14px;
+     font-family: 'Fira Sans', sans-serif;
+ }
+
+ .navigate a:hover{
+    background-color: #ddd;
+    color: black;
+    cursor: pointer;
+    
+} 
+.midcontainer{
+    width: 100%;
+    /* background-image: url("joanna-kosinska-1_CMoFsPfso-unsplash.jpg"); */
+    background-image: url("joanna-kosinska-1_CMoFsPfso-unsplash.jpg");
+    height: 335px;
+    font-family: 'Fira Sans', sans-serif;
+    
+    
+   
+    
+}
+#proDiv{
+    position: relative;
+    /* font-size: 17px;
+    padding-top: 30px;
+    padding-left: 100px; */
+    
+}
+ #proDiv h2{
+   
+    font-family:'Fira Sans', sans-serif ;
+}
+.home_con{
+    padding-top: 100px;
+    margin-left: 200px;
+} 
+ 
+/* #proDiv h3{
+    font-size: 18px;
+    
+    font-family:'Fira Sans', sans-serif ;
+} */
+
+.midcontainer h2{
+    padding-top: 100px;
+    padding-left:100px;
+    font-size: 54px;
+}
+.midcontainer p{
+    padding-left:100px;
+    font-size: 36px;
+}
+.downbar{
+    background-color: black;
+    height: 65px;
+    text-align: center;
+    padding-top : 20px;
+    color: white;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 20px;
+    width: 100%;
+    margin-bottom: 0px;
+    margin-top: 260px;
+    left:0;
+    bottom: 0;
+    position: fixed;
+    
+}
+/* Project Page started*/
+.pro{
+    background-color: black;
+    
+    text-align: center;
+   
+    
+    height: 65px;
+    
+   height: 65px;
+   padding-top: 22px;
+   font-size: 20px;
+}
+.pro a{
+    color: aliceblue;
+    text-decoration: none;
+    
+   padding-top: 20px;
+     font-size: 14px;
+     font-family: 'Fira Sans', sans-serif;
+}
+.pro_cont li{
+  
+    font-family: 'Fira Sans', sans-serif;
+    list-style-type: none;
+margin-left: 100px;   
+}
+.pro_cont h2{
+    padding-top:30px;
+    
+}
+.pro_cont p{
+    padding-top:30px;
+  
+}
+
+/* Project page ended */
+
+.contact_con{
+    text-align: center;
+    
+}
+.pro{
+    text-align: center;
+}
+
+.art_con{
+    margin-left: 100px;
+}
+.art_con p{
+    font-size: 19px;
+}
+.art_con h2{
+    margin-top: 30px;
+    font-size: 35px;
+}
+.pro_cont{
+    margin-left: 50px;
+    padding-left: 50px;
+}

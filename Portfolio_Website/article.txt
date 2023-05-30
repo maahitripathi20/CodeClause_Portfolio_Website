@@ -1,0 +1,13 @@
+<div class="pro">
+    <a > ARTICLE</a>
+</div>
+<div class="art_con">
+   <h2>How to design a Portfolio website ? </h2> <br><hr>
+   <br>
+
+   <p> Simple design of a portfilo website website.</p> <br>
+   <p> Simple design of a portfilo website website.</p> <br>
+   <p> Article Link <span><a href="#">GitLinkToPortFolio.git.in</a></span></p>  <br>
+
+
+</div>

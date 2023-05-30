@@ -1,0 +1,15 @@
+<div class="pro">
+    <a > CONTACT</a>
+</div>
+<div class="contact_con">
+    <br>
+    <br>
+    <br>
+    <b>Phone</b>: <span>6391419265</span><br>
+    <b>Email</b>: <span>mahimatripathi333999@gmail.com</span><br>
+    <b>Linkdin</b>: <span>https://www.linkedin.com/in/mahima-tripathi-663756250</span><br>
+    <b>Github</b>:<span>https://github.com/maahitripathi20</span><br>
+    <b>Instagram</b>: <span>maahitripathi15</span><br>
+
+</div>
+

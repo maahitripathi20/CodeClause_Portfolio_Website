@@ -1,0 +1,42 @@
+<div class="pro">
+        <a > PROJECTS</a>
+    </div>
+    <div class="pro_cont">
+        
+        <ol>
+            <li>
+                <h2> Static Linkdin Webpage</h2>
+                <hr>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto excepturi distinctio consectetur non
+                    ad autem labore. Sint aliLorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto excepturi distinctio consectetur non
+                    ad autem labore. Sint aliquam rerum itaque?quam rerum itaque?</p>
+            </li>
+
+            <li>
+                <h2>Unit Converter</h2>
+                <hr>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto excepturi distinctio consectetur non
+                    ad autem labore. Sint aliquam rerum itaque?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto excepturi distinctio consectetur non
+                    ad autem labore. Sint aliquam rerum itaque?</p>
+                
+            </li>
+            <li>
+                <h2>Static Linkdin Webpage</h2>
+                <hr>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto excepturi diLorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto excepturi distinctio consectetur non
+                    ad autem labore. Sint aliquam rerum itaque?stinctio consectetur non
+                    ad autem labore. Sint aliquam rerum itaque?</p>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+            </li>
+        </ol>
+
+    </div>
+
+
+
+
